@@ -12,3 +12,5 @@ https://traevaldez.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Trae Valdez
+
+### ©️2019 Run Buddy, Inc 
