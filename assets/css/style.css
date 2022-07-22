@@ -150,10 +150,6 @@ section {
 
 /* Hero Style Ends */
 
-.intro {
-
-}
-
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -231,10 +227,6 @@ section {
 .steps p {
     color: #39a6b2;
     font-size: 23px;
-}
-
-.trainers {
-    
 }
 
 .trainer {
